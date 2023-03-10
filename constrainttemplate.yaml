@@ -25,3 +25,4 @@ spec:
         input_containers[c] {
             c := input.review.object.spec.initContainers[_]
         }
+        
